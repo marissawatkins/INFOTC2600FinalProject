@@ -20,6 +20,7 @@ The following links will give you an insight about the digital displays we see e
 * [Refrigerators](https://www.samsung.com/us/explore/family-hub-refrigerator/overview/)
 
 Next we will be looking at Panel Technology
+
 ##Panel Displays 
 The following are links to the various types of panel technology
 
@@ -49,5 +50,19 @@ OLED:
 Quantanum Dot Display:
 
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/quantanumDotDisplay.jpg)
+
+##Form Factor
+From flat and rectangular to curved and round. 
+
+![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/curvedTV.jpg)
+
+
+
+
+
+
+
+
+
 
 
