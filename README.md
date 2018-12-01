@@ -20,7 +20,7 @@ The following links will give you an insight about the digital displays we see e
 * [Refrigerators](https://www.samsung.com/us/explore/family-hub-refrigerator/overview/)
 
 Next we will be looking at Panel Technology
- 
+##Panel Displays 
 The following are links to the various types of panel technology
 
 * [Plasma Display](https://en.wikipedia.org/wiki/Plasma_display)
@@ -30,7 +30,24 @@ The following are links to the various types of panel technology
 * [Quantanum Dot Display](https://en.wikipedia.org/wiki/Quantum_dot_display)
 * [Electronic Paper](https://en.wikipedia.org/wiki/Electronic_paper)
 
+Plasam Display:
+
+![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/plasmaDisplay.png)
+
 LCD:
+
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/lcd-screen.gif)
+
+LED:
+
+![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/LEDDisplay.jpg)
+
+OLED:
+
+![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/oled-cell.gif)
+
+Quantanum Dot Display:
+
+![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/quantanumDotDisplay.jpg)
 
 
