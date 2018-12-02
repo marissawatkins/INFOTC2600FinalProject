@@ -20,8 +20,7 @@ The following links will give you an insight about the digital displays we see e
 * [Refrigerators](https://www.samsung.com/us/explore/family-hub-refrigerator/overview/)
 
 Next we will be looking at Panel Technology
-
-##Panel Displays 
+## Panel Displays 
 The following are links to the various types of panel technology
 
 * [Plasma Display](https://en.wikipedia.org/wiki/Plasma_display)
@@ -51,12 +50,33 @@ Quantanum Dot Display:
 
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/quantanumDotDisplay.jpg)
 
-##Form Factor
-From flat and rectangular to curved and round. 
+## Form Factor
+From flat and rectangular to [curved](https://en.wikipedia.org/wiki/Curved_screen) and round. 
 
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/curvedTV.jpg)
 
+Curved screen displays were introduced around 2014 by Samsung and LG. The screens supposedly create a better immersive experience. The down side to curved tv's, there is one "sweet spot" for viewing meaning people sitting in any other positions will experience a degraded picture quality. 
 
+Along curved tv's are curved phones. Samsung released a [phone that has rounded edges](https://www.samsung.com/global/galaxy/galaxy-s8/). 
+
+Other examples of non-traditional rectangular displays
+* [Amazon Echo Spot](https://www.amazon.com/dp/B073SQYXTW/ref=cm_sw_r_cp_ep_dp_daynBbEFB16YD)
+* [Android Wear Watches](https://wearos.google.com/#hands-free-help)
+* Apples [iPhone X](https://www.apple.com/iphone/)
+
+## Resolution
+[Display resolution](https://en.wikipedia.org/wiki/Display_resolution) is the number of pixels across by the number of rows of pixels
+
+![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/resolution.png)
+
+A full high definition (FHD) display is 1920 by 1080. This means there are 1920 pixels across and 1080 rows of pixels. This type of display has 1920 * 1080 = 2,073,600 pixels.
+
+Interesting read : [Screen resolution and Aspect Ratio](https://www.digitalcitizen.life/what-screen-resolution-or-aspect-ratio-what-do-720p-1080i-1080p-mean)
+
+* 1080p refers to a 1920 by 1080 resolution that is displayed progressively.
+* 1080i refers to a 1920 by 1080 resolution that is displayed interlaced.
+
+Televisions that support FullHD (1920 x 1080) have been the mainstay for a number of years now. Ultra-high definiton (UHD) is the next step up in resolution for consumer TVs and is the current state of the art. Sometimes UHD is referred to as 4K, but it isn’t fully 4K.
 
 
 
