@@ -78,11 +78,24 @@ Interesting read : [Screen resolution and Aspect Ratio](https://www.digitalcitiz
 
 Televisions that support FullHD (1920 x 1080) have been the mainstay for a number of years now. Ultra-high definiton (UHD) is the next step up in resolution for consumer TVs and is the current state of the art. Sometimes UHD is referred to as 4K, but it isn’t fully 4K.
 
+* [UHD Display](https://en.wikipedia.org/wiki/Ultra-high-definition_television) are 3840x2160 pixels.
+* [4k Resolution](https://en.wikipedia.org/wiki/4K_resolution)
+* Note that Ultra-high defintion (UHD) refers to the "4k" used for consumer television. Full 4k (DCI 4K) refers to the full 4K resolution often used in digital cinema.
 
+Why is the 4K used for consumer TV (UHD) at a slightly lower resolution than DCI 4K? Answer: aspect ratio. UHD has the same aspect ratio as FHD. This means that older HD TVs have the same aspect ratio as newer UHD TVs which is 16:9. DCI 4K has an aspect ratio of 256∶135 or ≈1.90∶1. An image produced for the 16:9 aspect ratio will not nicely fit on a display with a 256∶135 or ≈1.90∶1 aspect ratio. They did it so the content produced prior to the next generation of high resolution consumer displays fits nicely on these new displays.
 
+## Contrast Ratio
+The [contrast ratio](https://en.wikipedia.org/wiki/Contrast_ratio) is a property of a display system, defined as the ratio of the luminance of the brightest color (white) to that of the darkest color (black) that the system is capable of producing. A high contrast ratio is a desired aspect of any display. It has similarities with dynamic range.
 
+## Brightness
+The amount of light that a display panel generates varies between displays. Just like different light bulbs can generate different levels of brightness, different monitors can produce different levels of maximum brightness. The ability to view a display in a brightly lit room or in sunlight depends on the brightness the display can achieve. Generally brighter displays cost more and, of course, produce better viewing results in brightly lit settings.
 
+Brightness is [measured](https://en.wikipedia.org/wiki/Candela_per_square_metre) in nits(nt) or candela per meter squared (cd/m^2). 1 nt = 1 cd/m2
 
+## Gamma
+In computer image processing, the term [gamma](https://www.eizo.com/library/basics/lcd_display_gamma/) gernerally refers to the brightness of intermediate tones (gray). 
+
+![](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/gamma.jpg)
 
 
 
