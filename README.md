@@ -30,21 +30,78 @@ The following are links to the various types of panel technology
 * [Quantanum Dot Display](https://en.wikipedia.org/wiki/Quantum_dot_display)
 * [Electronic Paper](https://en.wikipedia.org/wiki/Electronic_paper)
 
-Plasam Display:
+Plasma Display:
 
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/plasmaDisplay.png)
+
+### Plasma TV Advantages
+* Wider [contrast ratio](https://www.lifewire.com/tv-contrast-ratio-3276368)
+* Ability to display depth and range
+* Better motion tracking response time due to the implementation of [Sub Field Drive technology](https://www.lifewire.com/what-is-a-sub-field-drive-1847853)
+* More color depth and range
+* Wider viewing angle than LCD
+
+### Plasma TV Disadvantages
+* More susceptibility to burn-in (This is not as much of a factor on more recent models due to improvements, such as "pixel orbiting")
+* More heat generation (as well as more power consumption)
+* Does not perform as well at higher altitudes
+* Naturally darker image and screen glare in brightly lit rooms
+* Heavier weight (when comparing equivalent screen sizes), and more delicate to ship
+* Not available with 4K resolution
 
 LCD:
 
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/lcd-screen.gif)
 
+### LCD TV Advantages
+* No pixel burn-in susceptibility, although non-permanent image persistence is sometimes observed if the same image in on the screen for extended periods
+* Cooler running temperature
+* Typically has less screen glare unless the screen is curved
+* More functional at high altitudes
+* Longer display life
+* Looks better in brightly lit rooms due to the ability to produce a naturally brighter image (this also allows for the implementation of HDR)
+* Lower power consumption
+* Typically lighter weight 
+
+### LCD TV Disadvantages
+* Lower contrast ratio
+* Now as good displaying deep blacks
+* Narrower side-to-side viewing angle
+* Not as good at tracking motion. This has improved implementation of [120Hz and 240Hz refresh rates](https://www.lifewire.com/video-frame-vs-screen-refresh-rate-1847855) and additional motion processing. 
+* Although LCD TVs do not burn-in, individual pixels can burn out, causing small, visible, black or white dots to appear on the screen. Due to this, the individual pixels cannot be repaired meaning that the whole screen may need to be replaced
+* Usually more expensive than an equivalent-sized Plasma TV. 
+
 LED:
 
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/LEDDisplay.jpg)
 
+### LED TV Advantages
+* Better picture quality; The black levels are improved and will see blackest colors. 
+* They consume less energy compared to LCD TVs. There is almost 50% reduction in the power consumption for LED TVs, meaning they are energy efficient.
+* The contrast is much better in LED TVs compared to LCD
+* Life span is longer
+* Mercury is not used for lighting the display panel
+
+### LED TV Disadvantages
+* A bit more expensive when comparing prices to a LCD TV or a plasma TV. 
+* It is difficult to mount the LED TV on the wall as they have more dimensional depth
+* Compared to plasma TVs, LED TVs do not have better contrast ratio.
+
 OLED:
 
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/oled-cell.gif)
+
+### OLED TV Advantages
+* The plastic, organic layers of an OLED are thinner, lighter and more flexible than the crystalline layers in an LED or LCD
+* Since the light-emitting layers are lighter, the substrate of an OLED can be flexible instead of rigid. 
+* OLEDs are brighter than LEDs. This is because of the organic layers are much thinning than the corresponding inorganic crystal layers of an LED. 
+* Backlighting like LCDs are not required meaning they consume much less power.
+* Large fields of view, about 170 degrees. OLEDs produce their own light, so they have a much wider viewing range.
+
+### OLED TV Disadvantages
+* While red and green OLED films have longer lifetimes (46,000 to 230,000 hours), blue organics currently have much short lifetimes (up to around 14,000 hours).
+* Because manufacturing processes are expensive, it causes the TVs to be more as well.
+* Easily damaged by water
 
 Quantanum Dot Display:
 
