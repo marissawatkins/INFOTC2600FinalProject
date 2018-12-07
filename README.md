@@ -98,6 +98,7 @@ In computer image processing, the term [gamma](https://www.eizo.com/library/basi
 ![](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/gamma.jpg)
 
 YouTube video on gamma:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UohVbYLEhbM
 " target="_blank"><img src="http://img.youtube.com/vi/UohVbYLEhbM/0.jpg" 
 alt="YouTube video on Gamma" width="240" height="180" border="10" /></a>
