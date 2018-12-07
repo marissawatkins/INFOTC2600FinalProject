@@ -103,3 +103,6 @@ YouTube video on gamma:
 " target="_blank"><img src="http://img.youtube.com/vi/UohVbYLEhbM/0.jpg" 
 alt="YouTube video on Gamma" width="240" height="180" border="10" /></a>
 
+
+## Why Digital Systems has importance
+Digital systems plays a key role in the modern era as they are used in various applications in all fields of human activity. On the other hand, digital technique is a blueprint for an organization's digital authentic estate. Companies represent their data in the form of a digital system, irrespective of whether it is in video, graphic design, internet design and style.
