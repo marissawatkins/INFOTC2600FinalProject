@@ -103,6 +103,19 @@ The following are links to the various types of panel technology
 * Because manufacturing processes are expensive, it causes the TVs to be more as well.
 * Easily damaged by water
 
+### Best Features of Each Technology
+
+  |         | Least Burn Problems | Brightness | Black Level | Contrast Ratio | Energy Consumption | Life Span | Price | Picture Size | Viewing Angle | 
+  | ------- | ------------------- | ---------- | ----------- | -------------- | ------------------ | --------- | ----- | ------------ | ------------- |
+  | OLED    |                     |      X     |      X      |	      X       |         X          |     X     |       | 	      |       X       |
+  | ------- | ------------------- | ---------- | ----------- | -------------- | ------------------ | --------- | ----- | ------------ | ------------- |
+  | LED     |		          |      X     |	     |                |         X          |     X     |   X   |              |               | 
+  | ------- | ------------------- | ---------- | ----------- | -------------- | ------------------ | --------- | ----- | ------------ | ------------- |	
+  | LCD     |                     |            |	     |                |                    |     X     |       |              |               |
+  | ------- | ------------------- | ---------- | ----------- | -------------- | ------------------ | --------- | ----- | ------------ | ------------- |
+  | Plasma  |                     |            |      X      |                |                    |           |       |              |       X       |
+  
+
 Quantanum Dot Display:
 
 ![alt text](https://github.com/marissawatkins/INFOTC2600FinalProject/blob/master/quantanumDotDisplay.jpg)
